@@ -164,4 +164,4 @@ To find out how you can contribute to this project, read the [CONTRIBUTING.md](h
 
 The discord chat channel link is included in the file [CONTRIBUTING.md](https://github.com/devanshi39/SE-Project-Group24-Evolo-Project_Management_System/blob/main/CONTRIBUTING.md)
 
-_Note: Please be advised that this project constitutes a component of an academic endeavor for CSC 533: Privacy in a Digital Age, completed during the Fall semester of 2023._
+_Note: Please be advised that this project constitutes a component of an academic endeavor for CSC 510: Software Engineering, completed during the Fall semester of 2022._
